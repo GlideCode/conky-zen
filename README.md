@@ -3,11 +3,11 @@
 ###### GlideCode ###########################################
 
 ## Inside the box
-conkyrc_zen [conky configuration file]
-zen_rings.lua [lua rings configuration file]
-colorConverter.py [script to provide 0xaarrggg from #aarrgg color format]
-fonts
-backup configuration files inside zenAssets/ are provided 
+  - conkyrc_zen [conky configuration file]
+  - zen_rings.lua [lua rings configuration file]
+  - colorConverter.py [script to provide 0xaarrggg from #aarrgg color format]
+  - fonts
+  - backup configuration files inside zenAssets/ are provided 
 
 ## Updates
 September 2022 - Initial Release V 0.1
