@@ -29,6 +29,6 @@ It is under [GPLv3 License](gpl-3.0.txt), so feel free to use, study, improve an
 
 * If you haven't used or set up any conky before, please go to the [Wiki](https://gitlab.nomagic.fr/popi/conky-grapes/wikis/home) page 
 
-* Useful Page to browse through conky Object is awaiting for you at [http://conky.sourceforge.net/variables.html]
+* Useful Page to browse through conky Object is awaiting for you at [Conky Objects](http://conky.sourceforge.net/variables.html)
 
 ############# Closing of ###################################
