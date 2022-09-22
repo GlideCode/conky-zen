@@ -1,16 +1,16 @@
 
+############################################################
 ###### conky-zen ###########################################
-###### GlideCode ###########################################
-
-############# Opening of ###################################
-
+############################################################
+################################## GlideCode ###############
+############################################################
 
 ## Inside the box
-  - conkyrc_zen [conky configuration file]
-  - zen_rings.lua [lua rings configuration file]
-  - colorConverter.py [script to provide 0xaarrggg from #aarrgg color format]
-  - fonts
-  - backup configuration files inside zenAssets/ are provided 
+conkyrc_zen [conky configuration file]
+zen_rings.lua [lua rings configuration file]
+colorConverter.py [script to provide 0xaarrggg from #aarrgg color format]
+fonts
+backup configuration files inside zenAssets/ are provided 
 
 ## Updates
 September 2022 - Initial Release V 0.1
@@ -32,6 +32,6 @@ It is under [GPLv3 License](gpl-3.0.txt), so feel free to use, study, improve an
 
 * If you haven't used or set up any conky before, please go to the [Wiki](https://gitlab.nomagic.fr/popi/conky-grapes/wikis/home) page 
 
-* Useful Page to browse through conky Objects is awaiting for you at [Conky Objects](http://conky.sourceforge.net/variables.html)
+* Useful Page to browse through conky Object is awaiting for you at [http://conky.sourceforge.net/variables.html]
 
 ############# Closing of ###################################
