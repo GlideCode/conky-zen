@@ -68,6 +68,7 @@ conky.config = {
 -- TealGreen
 	color6 = '#008B8B',
 -- Loading lua script for drawning rings
+-- Replace the following load with the folder path where conky-zen has been saved
 	lua_load = '~/.conky/conky-zen/zen_rings.lua',
 	lua_draw_hook_pre = 'main',
 
